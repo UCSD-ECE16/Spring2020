@@ -1,7 +1,7 @@
 # Sample ECE16 Lab Report
-Prepared by: Edward Jay Wang
+Prepared by: Ramsin Khoshabeh
 
-Date: 01/06/2020
+Date: 03/22/2020
 
 ## Tutorial:
 In each lab, there will be a series of tutorials that aim to get everyone the needed information to tackle the challenge for each lab assignments. There are a series of discussion questions, labeled with a Q. and highlighted in red that you must answer in this lab report. These answers should be thought out and backed by your reasoning. Treat it the same way as you answer math questions. Expect that if you just write out the answer and don't show your work, you will not get full credit. 
